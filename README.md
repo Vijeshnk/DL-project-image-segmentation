@@ -1,5 +1,7 @@
 # DL-project-image-segmentation
 
+![segment](https://user-images.githubusercontent.com/48064217/122362025-6787ac00-cf75-11eb-8e39-5042f463686c.jpg)
+
 Now, suppose that we want to get where the object is present inside the image, the shape of the object
 or which pixel represents what object.
 So in cases like this, we have to play with a segment of the image from which I mean to say that we
