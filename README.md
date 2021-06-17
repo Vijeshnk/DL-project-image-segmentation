@@ -6,3 +6,5 @@ So in cases like this, we have to play with a segment of the image from which I 
 give a label to each pixel of an image.
 The goal of image segmentation is to train a neural network which can return a pixel y's mask of
 whatever image we're talking about.the goal is to assign a label or a class to the input image.
+
+![image_seg](https://user-images.githubusercontent.com/48064217/122348162-7ae04a80-cf68-11eb-96ca-11c3564ac8d2.PNG)
